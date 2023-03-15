@@ -19,6 +19,6 @@ Full-Stack Software Developer with a background as a Firefighter/Paramedic. Pass
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![Owens's GitHub stats](https://github-readme-stats.vercel.app/api?username=owencshoop&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Owens's GitHub stats](https://github-readme-stats.vercel.app/api?username=owencshoop&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owencshoop)](https://github.com/anuraghazra/github-readme-stats)
 
 
