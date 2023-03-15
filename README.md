@@ -1,7 +1,7 @@
 ## [About Owen Shoop](www.owenshoop.dev)
 Full-Stack Software Developer with a background as a Firefighter/Paramedic. Passionate about using technology to create meaningful solutions that make a difference in people's lives. Possessing excellent communication and collaboration skills, able to work effectively in diverse teams, and contribute positively to a collaborative and dynamic work environment. Experienced in building full-stack, scalable web applications, delivering high-quality, user-friendly solutions. Able to leverage my experience as a firefighter/paramedic to quickly adapt to changing project requirements and deliver under tight deadlines.
 
-## Technologies:
+### Technologies:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
